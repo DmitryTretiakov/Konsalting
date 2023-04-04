@@ -1,6 +1,5 @@
 # Konsalting
 
-2 labs:
 # Third about calculating the best alternative solutions by mathematically different methods
 url to collab: https://colab.research.google.com/drive/1AVBpQjJGBMRs7AjShccyYrzdg-c2JeX3?hl=ru
 
